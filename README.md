@@ -7,7 +7,7 @@ The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two device
 
 ## More info at
 
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/project/sip-and-puff-switch/)
+- [Makers Making Change Project Page](https://makersmakingchange.com/product/sip-and-puff-switch-analog/01tJR000000698rYAA)
 
 
 ## Getting Started
